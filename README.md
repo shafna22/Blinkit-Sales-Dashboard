@@ -5,14 +5,27 @@ The dashboard provides insights into **Total Sales, Average Sales, Number of Ite
 with drilldowns by Item Type, Fat Content, and Outlet.
 
 
- 🔑 Features
-- KPI Cards: Total Sales, Avg Sales, No. of Items, Avg Rating.
-- Interactive Buttons (Toggle): Switch between Sales / Items / Ratings.
-- Donut Chart: Sales distribution by Fat Content.
-- Bar Charts: Item Sales, Outlet-wise breakdown.
-- Filter Panel: Easily slice by Item Type, Outlet Size, Location.
-- Reset Button: Clear filters with one click.
-- Custom design: Black & Yellow theme + icons.
+🔑 Features
+
+-KPI Cards: Track Total Sales, Average Sales, Number of Items, and Average Rating at a glance.
+
+-Interactive Toggle Buttons: Seamlessly switch between Sales / Items / Ratings with dynamic visuals.
+
+-Donut Chart (Fat Content): Sales distribution by different fat content categories.
+
+-bar Charts: Item-wise sales and outlet-wise breakdown for better comparison.
+
+-Filter Panel + Reset Button: Slice by Item Type, Outlet Size, Location and clear filters with one click.
+
+-Outlet Establishment (Area Chart): Sales trend across year of establishment to analyze outlet growth.
+
+-Outlet Size (Donut Chart): Breakdown of total sales by outlet size (Small, Medium, Large).
+
+-Outlet Location (Treemap): Sales contribution across Tier 1, Tier 2, Tier 3 cities.
+
+-Outlet Type (Table): Detailed comparison of Supermarkets, Grocery Stores, etc. with metrics like Total Sales, No. of Items, Avg Sales, Avg Rating, Item Visibility   (with conditional formatting).
+
+-Custom Black & Yellow Theme: Minimal, modern UI with icons for professional presentation.
 
 
 ## 🚀 How to Use
